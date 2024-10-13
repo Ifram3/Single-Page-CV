@@ -2,6 +2,7 @@
 A minimalist, single-page CV template built using only HTML
 
 In this project, I am required to create a single-page CV (Curriculum Vitae) using only HTML. It should look like the following image:
+
 ![resume-template](images/resume-template-zyl70.png)
 
 
@@ -20,3 +21,5 @@ In this project, I am required to create a single-page CV (Curriculum Vitae) usi
 * SEO meta tags in the head section.
 * OG tags for better social media sharing.
 * A favicon linked in the head section.
+
+Meanwhile you can checkout the project [here](https://roadmap.sh/projects/single-page-cv)
